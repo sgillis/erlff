@@ -1,0 +1,2 @@
+:name erlff
+:start-command rebar3 shell
